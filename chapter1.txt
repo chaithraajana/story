@@ -1,0 +1,2 @@
+Hiii..hello world. Good Morning. 
+Microsoft Corporation. All rights reserved. git init
